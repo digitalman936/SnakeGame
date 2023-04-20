@@ -14,10 +14,6 @@ This project is an implementation of a basic snake game where the objective is t
 
 •  Press ESCAPE key to stop the game while its running or click the X in the top right.
 
-(WARNING):
-
-If you are running other python versions of python, make sure your interpreter still supports these versions of python and pygame. Keep in mind the Python API and Pygame module used in the snake game are frequently changing. So, if the code doesn't function properly using your local interpreter, consider installing python 3.10.9.
-
 (Installation):
 
 Install Python: 3.10.9
