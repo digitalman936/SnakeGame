@@ -24,7 +24,7 @@ Install Pygame: pip install pygame==2.3.0
 
 Python Official Documentation: https://www.python.org/downloads/
 
-Python 3.10 Install: https://www.python.org/downloads/release/python-3109/
+Python 3.10.9 Install: https://www.python.org/downloads/release/python-3109/
 
 Pygame Official Documentation: https://www.pygame.org/docs/
 
